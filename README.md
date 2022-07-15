@@ -28,5 +28,5 @@ Android Developer And UI Designer
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://google.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://google.com)
 
-projects
-TotiShop: https://github.com/OmidrezaBagherian/TotiShop (Application Android / Kotlin)
+### Projects
+![toti-shop](toti-shop.png)
