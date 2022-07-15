@@ -1,13 +1,14 @@
 Hi, My name is OmidrezaBagherian
 ==============================
 
-Android Developer And UI Designer
-----------------------------------------
 * 🌍  I'm based in Karaj
 * ✉️  You can contact me at [OmidrezaBagherian@yahoo.com](mailto:OmidrezaBagherian@yahoo.com)
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on Team Work
 * ⚡  I Can Do Any Thing
+
+Android Developer And UI Designer
+----------------------------------------
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://google.com)
