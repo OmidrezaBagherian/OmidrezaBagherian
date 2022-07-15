@@ -29,4 +29,4 @@ Android Developer And UI Designer
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://google.com)
 
 ### Projects
-![toti-shop](toti-shop.png)
+![toti-shop](toti-shop-store.png)
